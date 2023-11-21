@@ -1,0 +1,74 @@
+@media all and (max-device-width:480px){
+    .title{
+        font-size: 25px !important;
+    }
+  #accueil{
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    margin-bottom: 10px !important;
+    margin-top: 2px !important;
+  }
+  body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+}
+/* fournisseur debut  */
+#img_fourn{
+  width:50px !important;
+  height:50px !important;
+}
+
+.membres-corps_admin{
+  background-color: rgb(255, 255, 255);
+  text-align: center; 
+  box-shadow: 5px 5px 5px #c17e7e4d;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 15px 5px 5px 5px;
+  width: 100px !important;
+ 
+  
+}
+
+/* fin */
+
+/* produit debut */
+.title{
+  font-size: 20px !important;
+}
+
+.g-title{
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+
+/* fin */
+
+/* gauche   */
+#gauche{
+  padding-top: 45px;
+}
+/* fin */
+}
+
+
+@media screen and (min-width:767px) and (max-width:1023px) {
+    
+
+
+
+}
+
+
+
+@media all and (max-device-width: 320px){
+   
+}
+@media all and (max-device-width:768px){
+    
+}

@@ -1,0 +1,56 @@
+/* partie gauche */
+#gauche_four{
+   
+    height: 500px;
+    background-color: #103a51;
+    
+}
+#panneau2{
+    background-color: #103a51;
+    border-radius: 0px 0px 10px 10px !important;
+}
+
+.btn-1 {
+    background-color: #2296a1!important;
+}
+.register_four{
+    background-color: #e8b915 !important;
+}
+.text_four{
+    color: #103a51;
+}
+/* fin */
+#bg-four{
+    background-color: #e9eaed;
+}
+/* droite */
+#p{
+    background-color: #112b3c !important;
+}
+.thead{
+    background-color: #2296a1 !important;
+    color: #e9eaed;
+}
+.table_over_fourn{
+    overflow-y: scroll;
+  
+}
+/* fin */
+
+/* modal */
+#plus_img_fourn{
+    background-color: #e8b915 !important;
+}
+/* fin */
+
+.membres-corps_admin{
+    background-color: rgb(255, 255, 255);
+    text-align: center; 
+    box-shadow: 5px 5px 5px #c17e7e4d;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px 5px 5px 5px;
+    width: 200px;
+   
+    
+}

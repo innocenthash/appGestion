@@ -1,0 +1,27 @@
+#oublie{
+    background-color: #E9896A !important;
+}
+#inscris{
+background-color:#343F56 ;
+}
+#connecte{
+background-color:#F8F5F1 ;
+}
+#alert{
+    display: none;
+}
+#alert_ins{
+    display: none;
+}
+#alert_nom{
+    display: none;
+}
+#alert_email{
+    display: none;
+}
+#alert_pass{
+    display: none;
+}
+#alert_pass_confirme{
+    display: none;
+}

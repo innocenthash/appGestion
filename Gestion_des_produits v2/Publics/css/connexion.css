@@ -1,0 +1,22 @@
+#connection{
+    background-color:#343F56 ;
+}
+#inscris-connect{
+    background-color:#F8F5F1 ;
+}
+#alert-connect{
+    display: none;
+}
+#co-pass{
+    display: none;
+}
+
+
+#co-email{
+    display: none;
+
+}
+#co-emailc{
+    display: none;
+
+}
